@@ -1,0 +1,18 @@
+ [
+    {
+      "name": "tiles",
+      "author": "Ankit Bharangar",
+      "url": "https://github.com/ankitbharangar/wallpapers/blob/master/tiles.jpg",
+      "thumbnail": "https://github.com/ankitbharangar/wallpapers/blob/master/tiles_thumbnail.jpg",
+      "downloadable": true,
+      "copyright": "bharangardigital"
+    },
+    {
+      "name": "carved",
+      "author": "Ankit Bharangar",
+      "url": "https://github.com/ankitbharangar/wallpapers/blob/master/carved.jpg",
+      "thumbnail": "https://github.com/ankitbharangar/wallpapers/blob/master/carved_thumbnail.jpg",
+      "downloadable": true,
+      "copyright": "bharangardigital"
+    }
+  ]
