@@ -3,16 +3,16 @@
     {
       "name": "tiles",
       "author": "Ankit Bharangar",
-      "url": "https://github.com//ankitbharangar/wallpapers/blob/master/tiles.jpg",
-      "thumbnail": "https://github.com//ankitbharangar/wallpapers/blob/master/tiles.jpg",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles_thumbnail.jpg",
       "downloadable": true,
       "copyright": "bharangardigital"
     },
     {
       "name": "carved",
       "author": "Ankit Bharangar",
-      "url": "https://github.com//ankitbharangar/wallpapers/blob/master/carved.jpg",
-      "thumbnail": "https://github.com//ankitbharangar/wallpapers/blob/master/carved.jpg",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/carved.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/carved_thumbnail.jpg",
       "downloadable": true,
       "copyright": "bharangardigital"
     }
