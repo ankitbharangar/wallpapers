@@ -1,0 +1,58 @@
+{
+  "wallpapers": [
+    {
+      "name": "tiles",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles_thumbnail.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "aqua",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/aqua.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/aqua_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "beauty",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/beauty.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/beauty_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "blossom",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/blossom.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/blossom_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "contour",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/contour.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/contour_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "dream",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/dream.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/dream_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "feeling",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/feeling.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/feeling_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "hope",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/hope.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/hope_thumb.jpg",
+      "downloadable": true
+    },
+    {
+      "name": "journey",
+      "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/journey.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/journey_thumb.jpg",
+      "downloadable": true
+    }
+  ]
+}
