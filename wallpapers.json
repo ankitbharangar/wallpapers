@@ -1,5 +1,4 @@
-{
-  "wallpapers": [
+[
     {
       "name": "tiles",
       "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles.jpg",
@@ -187,4 +186,3 @@
       "downloadable": true
     },
   ]
-}
