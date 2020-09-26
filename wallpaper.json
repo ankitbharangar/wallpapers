@@ -1,11 +1,9 @@
-{
-"wallpapers":[
+[
     {
       "name": "tiles",
       "author":"ankit",
       "url": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles.jpg",
       "thumbnail": "https://raw.githubusercontent.com/ankitbharangar/wallpapers/master/tiles_thumbnail.jpg",
       "downloadable": true,
-    },
+    }
   ]
-}
